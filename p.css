@@ -1,0 +1,68 @@
+#gora{
+
+}
+.jeden{
+background-color: green;
+float: left;
+height: 50vh;
+width: 95vh;
+}
+.dwa{
+float: left;
+background-color: blue;
+height: 50vh;
+width: 95vh;
+}
+
+.trzy{
+background-color: purple;
+height: 50vh;
+width: 95vh;
+float: left;
+}
+.cztery{
+background-color: yellow;
+height: 50vh;
+width: 95vh;
+float: left;
+}
+#dol{
+
+}
+.a{
+background-color: green;
+width: 32vh;
+float: left;
+height: 30vh;
+}
+.b{
+background-color: lightskyblue;
+width: 32vh;
+float: left;
+height: 30vh;
+
+}
+.c{
+background-color: lightcoral;
+width: 32vh;
+float: left;
+height: 30vh;
+}
+.d{
+background-color: lightgray;
+width: 32vh;
+float: left;
+height: 30vh;
+}
+.e{
+background-color: lightsalmon;
+width: 32vh;
+float: left;
+height: 30vh;
+}
+.f{
+background-color: lightseagreen;
+width: 32vh;
+float: left;
+height: 30vh;
+}
